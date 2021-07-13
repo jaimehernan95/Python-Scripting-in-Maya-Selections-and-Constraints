@@ -1,7 +1,7 @@
 # Python-Scripting-in-Maya---Selections-and-Constraints
+### learning with basic maya from an artist rice wang
 
-
-### - 3 D shere  results using python script in maya aimSphere  (day 3 lesson)
+## - 3 D shere  results using python script in maya aimSphere  (day 3 lesson)
 
 <img width="964" alt="Python-Scripting-in-Maya" src="https://github.com/jaimehernan95/Python-Scripting-in-Maya---Selections-and-Constraints/blob/master/images/3dsphere.png">
 
