@@ -1,5 +1,5 @@
 # Python-Scripting-in-Maya---Selections-and-Constraints
-### learning basic maya from my girlfriend 
+### learning basic maya from my girlfriend
 ## GO
 ## - 3 D shere  results using python script in maya aimSphere  (day 3 lesson)
 
