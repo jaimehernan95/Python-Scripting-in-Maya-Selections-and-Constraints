@@ -1,5 +1,6 @@
 # Python-Scripting-in-Maya---Selections-and-Constraints
-### learning basic maya from my girlfriend
+### learning basic maya from Min-fang wang (rice )
+### rice wang profile https://www.artstation.com/kioeowo
 ## GO
 ## - 3 D shere  results using python script in maya aimSphere  (day 3 lesson)
 
