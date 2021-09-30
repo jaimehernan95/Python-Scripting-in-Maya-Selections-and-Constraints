@@ -2,6 +2,11 @@
 ### learning basic maya with Min Fang
 ### rice wang profile https://www.artstation.com/kioeowo
 ## GO
+
+## - rigger
+
+<img width="964" alt="rice wang" src="https://github.com/jaimehernan95/Python-Scripting-in-Maya---Selections-and-Constraints/blob/master/images/AvatarMaker.png">
+
 ## - 3 D shere  results using python script in maya aimSphere  (day 3 lesson)
 
 <img width="964" alt="Python-Scripting-in-Maya" src="https://github.com/jaimehernan95/Python-Scripting-in-Maya---Selections-and-Constraints/blob/master/images/3dsphere.png">
