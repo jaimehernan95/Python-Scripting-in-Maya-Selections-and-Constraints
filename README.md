@@ -1,9 +1,6 @@
 # Python-Scripting-in-Maya---Selections-and-Constraints
-### learning basic maya with Min Fang
-### rice wang profile https://www.artstation.com/kioeowo
-## GO
-
-## - rigger
+### learning basic maya
+### rice https://www.artstation.com/kioeowo
 
 <img width="350" alt="ok minfang,you win" src="https://github.com/jaimehernan95/Python-Scripting-in-Maya---Selections-and-Constraints/blob/master/images/AvatarMaker.png">
 
